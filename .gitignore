@@ -13,3 +13,4 @@ coverage/
 .idea/
 .DS_Store
 *.iml
+**/yarn-error.log

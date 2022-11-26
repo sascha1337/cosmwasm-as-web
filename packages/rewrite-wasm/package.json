@@ -8,6 +8,6 @@
   },
   "main": "rewrite-wasm.js",
   "bin": {
-	"cosmwasm-as-rewrite-wasm": "./rewrite-wasm.js"
+	  "cosmwasm-as-rewrite-wasm": "./rewrite-wasm.js"
   }
 }
